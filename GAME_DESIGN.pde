@@ -1,11 +1,11 @@
 //main character vars
-///sdf///asd
+///sdf///asdasdasdasd
 //wef
 //a/sd
 float carX=20;
-float carY=120;
+float carY=120;asdad
 //enemy 1 vars
-float aX=410;
+float aX=410;asdasd
 float aY=80;
 float aVX=8;
 int amp1=(int)(random(20)+5);
