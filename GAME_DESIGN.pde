@@ -1,6 +1,9 @@
 //main character vars
 ///sdf///asdasdasdasd
 //wef
+hjbhkgg
+jkhkjhjk
+
 //a/sd
 float carX=20;
 float carY=120;asdad
