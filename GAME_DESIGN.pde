@@ -9,14 +9,14 @@ int amp1=(int)(random(20)+5);
 float cT;
 
 //enemy 2 vars
-float a2X=410;
+float a2X=490;
 float a2Y=130;
 float a2VX=8;
 int amp2=(int)(random(5)+5);
 float c2T;
 
 //enemy 3 vars
-float a3X=410;
+float a3X=450;
 float a3Y=210;
 float a3VX=8;
 int amp3=(int)(random(15)+5);
