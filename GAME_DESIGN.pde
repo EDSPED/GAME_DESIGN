@@ -1,5 +1,5 @@
 //main character vars
-float carX=20;
+float carX=20; 
 float carY=120;
 //enemy 1 vars
 float aX=410;
