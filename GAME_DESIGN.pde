@@ -278,6 +278,7 @@ void mousePressed() {
   if (pageNumber==2 && (dist(mouseX, mouseY, 400, 280)<20)) {
     pageNumber=3;
   }
+<<<<<<< Updated upstream
 }
 
 void mouseReleased() {
@@ -293,3 +294,6 @@ void mouseDragged() {
     carY=mouseY;
   }
 }
+=======
+}
+>>>>>>> Stashed changes
